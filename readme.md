@@ -15,7 +15,7 @@ ___
 
 <br>
 
-##  Explore o [Gatito!](https://gatitostore-trueparallax-carousel.vercel.app/) 👀
+##  Explore o [Gatito!](https://rodolfo-sampaio.github.io/gatitostore-trueparallax-carousel/) 👀
 
 
 <br>
