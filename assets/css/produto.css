@@ -1,23 +1,22 @@
 .produto {
     display: flex;
-
     height: calc(100vh - 4.25rem);
-
-    overflow: hidden;
 }
 
 .produto__foto {
-    width: 40%;
-    height: 100%;
+	width: 45%;
+	height: 55%;
+	transform: translateY(-200px);
+	position: sticky;
+	top: -80px;
+	z-index: -2;
+}
 
-    background-image: url(../img/produto-capa.png);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-
-    transform: translateZ(-1px) translate(-75%, 25%) scale(2.6);
-
-    z-index: -1;
+.produto__foto img {
+	width: 100%;
+	height: 280%;
+	object-fit: none;
+	transform: translateY(-30px);
 }
 
 .produto__descricao {
