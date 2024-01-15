@@ -41,7 +41,7 @@ ___
 [Matheus Alberto Marcus](https://www.linkedin.com/in/matheus-alberto-marcus/)
 <br>
 <br>
-### "Oi, cat lover! 🐾 Bem-vindo ao 'Gatito Code', onde cada linha de código é uma ação no palco da vida felina digital. Dê um [`Follow`](https://github.com/Rodolfo-Sampaio) e vamos criar juntos esse espetáculo meowravilhoso! 🌟💻 #CodeCats"
+#### Obrigado por visitar meu Git. Se você der um [`Follow`](https://github.com/Rodolfo-Sampaio), ficarei feliz em retribuir!🚀💻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=100&section=footer" alt="Waving Capsule Render">
 
